@@ -1,0 +1,86 @@
+.FrontLayout__shop--text {
+  visibility: hidden;
+  position: absolute;
+  top: 45%;
+  right: 15%;
+}
+
+.FrontLayout__shop:hover .FrontLayout__shop--text {
+  visibility: visible;
+  transition: visibility 1s ease;
+}
+
+.FrontLayout__shop:hover .FrontLayout__shop--img {
+  /* filter: blur(1px); */
+  filter: brightness(0.3);
+
+  transition: all 0.2s ease;
+  /* 
+  opacity: 0.3;
+  transition: opacity 0.4s; */
+}
+
+@media screen and (max-width: 500px) {
+  .FrontLayout__shop--text {
+    top: 25%;
+    position: absolute;
+    right: 15%;
+  }
+
+  .FrontLayout__shop--text p {
+    font-size: 1.2 rem;
+  }
+}
+
+.FrontLayout__BLM {
+  background-color: black;
+  min-height: 250px;
+  color: white;
+}
+
+.FrontLayout__BLM:hover {
+  background-color: white;
+  min-height: 250px;
+  color: black;
+}
+
+.FrontLayout__Title {
+  min-height: 150px;
+}
+
+.FrontLayout__Title:hover {
+  min-height: 150px;
+  background-color: black;
+  color: white;
+}
+
+.FrontLayout__about {
+  background-color: #eeeeee;
+  min-height: 150px;
+}
+
+.FrontLayout__about:hover {
+  color: #eeeeee;
+  min-height: 150px;
+  background-color: black;
+}
+
+.FrontLayout__scrollButton {
+  background-color: black;
+  color: white;
+  border-style: solid;
+  border-width: 3px;
+  border-color: white;
+}
+
+.FrontLayout__scrollButton:hover {
+  background-color: white;
+  color: black;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
+
+.shopLayout__scrollCart--text {
+  color: white;
+}
