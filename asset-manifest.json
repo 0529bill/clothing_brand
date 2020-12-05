@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/clothing/static/css/main.869a12b3.chunk.css",
-    "main.js": "/clothing/static/js/main.1af2a3ab.chunk.js",
-    "main.js.map": "/clothing/static/js/main.1af2a3ab.chunk.js.map",
-    "runtime-main.js": "/clothing/static/js/runtime-main.6d9e42e7.js",
-    "runtime-main.js.map": "/clothing/static/js/runtime-main.6d9e42e7.js.map",
-    "static/css/2.1a02f21c.chunk.css": "/clothing/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.11d6c64c.chunk.js": "/clothing/static/js/2.11d6c64c.chunk.js",
-    "static/js/2.11d6c64c.chunk.js.map": "/clothing/static/js/2.11d6c64c.chunk.js.map",
-    "index.html": "/clothing/index.html",
-    "static/css/2.1a02f21c.chunk.css.map": "/clothing/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.869a12b3.chunk.css.map": "/clothing/static/css/main.869a12b3.chunk.css.map",
-    "static/js/2.11d6c64c.chunk.js.LICENSE.txt": "/clothing/static/js/2.11d6c64c.chunk.js.LICENSE.txt",
-    "static/media/black.f96648b2.jpg": "/clothing/static/media/black.f96648b2.jpg",
-    "static/media/skateboard.03e28220.jpg": "/clothing/static/media/skateboard.03e28220.jpg",
-    "static/media/skating.773ff130.jpg": "/clothing/static/media/skating.773ff130.jpg"
+    "main.css": "/clothing_brand/static/css/main.869a12b3.chunk.css",
+    "main.js": "/clothing_brand/static/js/main.26b084ed.chunk.js",
+    "main.js.map": "/clothing_brand/static/js/main.26b084ed.chunk.js.map",
+    "runtime-main.js": "/clothing_brand/static/js/runtime-main.73a0918c.js",
+    "runtime-main.js.map": "/clothing_brand/static/js/runtime-main.73a0918c.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/clothing_brand/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.d31f804f.chunk.js": "/clothing_brand/static/js/2.d31f804f.chunk.js",
+    "static/js/2.d31f804f.chunk.js.map": "/clothing_brand/static/js/2.d31f804f.chunk.js.map",
+    "index.html": "/clothing_brand/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/clothing_brand/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.869a12b3.chunk.css.map": "/clothing_brand/static/css/main.869a12b3.chunk.css.map",
+    "static/js/2.d31f804f.chunk.js.LICENSE.txt": "/clothing_brand/static/js/2.d31f804f.chunk.js.LICENSE.txt",
+    "static/media/black.f96648b2.jpg": "/clothing_brand/static/media/black.f96648b2.jpg",
+    "static/media/skateboard.03e28220.jpg": "/clothing_brand/static/media/skateboard.03e28220.jpg",
+    "static/media/skating.773ff130.jpg": "/clothing_brand/static/media/skating.773ff130.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d9e42e7.js",
+    "static/js/runtime-main.73a0918c.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.11d6c64c.chunk.js",
+    "static/js/2.d31f804f.chunk.js",
     "static/css/main.869a12b3.chunk.css",
-    "static/js/main.1af2a3ab.chunk.js"
+    "static/js/main.26b084ed.chunk.js"
   ]
 }
