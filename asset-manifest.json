@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/clothing-brand/static/css/main.869a12b3.chunk.css",
+    "main.js": "/clothing-brand/static/js/main.49bf5d32.chunk.js",
+    "main.js.map": "/clothing-brand/static/js/main.49bf5d32.chunk.js.map",
+    "runtime-main.js": "/clothing-brand/static/js/runtime-main.510c9c16.js",
+    "runtime-main.js.map": "/clothing-brand/static/js/runtime-main.510c9c16.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/clothing-brand/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.82fbf181.chunk.js": "/clothing-brand/static/js/2.82fbf181.chunk.js",
+    "static/js/2.82fbf181.chunk.js.map": "/clothing-brand/static/js/2.82fbf181.chunk.js.map",
+    "index.html": "/clothing-brand/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/clothing-brand/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.869a12b3.chunk.css.map": "/clothing-brand/static/css/main.869a12b3.chunk.css.map",
+    "static/js/2.82fbf181.chunk.js.LICENSE.txt": "/clothing-brand/static/js/2.82fbf181.chunk.js.LICENSE.txt",
+    "static/media/black.f96648b2.jpg": "/clothing-brand/static/media/black.f96648b2.jpg",
+    "static/media/skateboard.03e28220.jpg": "/clothing-brand/static/media/skateboard.03e28220.jpg",
+    "static/media/skating.773ff130.jpg": "/clothing-brand/static/media/skating.773ff130.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.510c9c16.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.82fbf181.chunk.js",
+    "static/css/main.869a12b3.chunk.css",
+    "static/js/main.49bf5d32.chunk.js"
+  ]
+}
