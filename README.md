@@ -1,5 +1,7 @@
 ## Clothing Brand
 
+you can access [here](https://0529bill.github.io/clothing_brand/#/clothing_brand/home)
+
 Features
 
 1. shopping cart
